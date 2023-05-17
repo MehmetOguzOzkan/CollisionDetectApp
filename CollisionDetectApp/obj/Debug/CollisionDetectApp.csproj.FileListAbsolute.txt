@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\bin\Debug\CollisionDetectApp.exe.config
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\bin\Debug\CollisionDetectApp.exe
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\bin\Debug\CollisionDetectApp.pdb
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.Properties.Resources.resources
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.exe
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.pdb
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.Form1.resources
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\bin\Debug\OpenTK.dll
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\bin\Debug\OpenTK.pdb
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\bin\Debug\OpenTK.xml
+C:\Users\asus\source\repos\CollisionDetectApp\CollisionDetectApp\obj\Debug\CollisionDetectApp.csproj.CopyComplete
